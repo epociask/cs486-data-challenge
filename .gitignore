@@ -1,1 +1,2 @@
-aggregated.csv
+data/*.csv
+scripts/__pycache__
